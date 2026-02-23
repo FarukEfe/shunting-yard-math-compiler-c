@@ -1,4 +1,4 @@
-# Calculus in C
+# Math Expr. Compiler in C via Shunting Yard Algorithm
 
 In the 1st version of this program, it utilizes **stack** and **queue** data structures to evaluate a mathematical equation in the form of a string. This feature is accomplished using the **Shunting Yard Algorithm**, which is widely used to first order a math expression in the **Reversed-Polish Form** and then evaluate the expression.
 
